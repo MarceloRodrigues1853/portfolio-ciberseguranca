@@ -11,6 +11,9 @@ Demonstrar a capacidade de analisar registros de tráfego de rede, identificar p
 - Mensagem de erro recebida: `Destination port unreachable`.
 - Foi utilizado `tcpdump` para capturar o tráfego de rede durante a tentativa de acesso.
 
+## imagem do modelo de dados
+![Modelo de Dados](/projetos/analise-rede/modelo_analise.png)
+
 ## 📈 Resultados da Análise
 
 - O navegador tentou resolver o domínio usando DNS via UDP/53.
