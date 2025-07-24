@@ -9,6 +9,8 @@ Um ex-funcionário utilizou credenciais padrão para acessar o painel administra
 
 ## 🔍 Análise
 
+[Modelos para Análise](/modelo_dados/)
+
 **Protocolos envolvidos:**
 
 - DNS: resolução dos domínios `yummyrecipesforme.com` e `greatrecipesforme.com`.
@@ -39,7 +41,7 @@ Um ex-funcionário utilizou credenciais padrão para acessar o painel administra
 
 ## 📄 Arquivo do Relatório
 
-- [modelo_daos](/projetos/analise-rede/analise-syn-flood/Relatorio_Incidente_SynFlood.docx)
+- [Relatorio Completo](/Relatorio_Protecao_Sistema_Operacional_Completo.docx)
 
 ---
 
