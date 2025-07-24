@@ -38,7 +38,7 @@ Um ataque em que o invasor envia um grande volume de pacotes SYN para esgotar os
 
 ## 📄 Arquivo do Relatório
 
-- `Relatorio_Incidente_DoS_SynFlood_PTBR.docx`
+- [modelo_daos](/projetos/analise-rede/analise-syn-flood/Relatorio_Incidente_SynFlood.docx)
 
 ---
 
