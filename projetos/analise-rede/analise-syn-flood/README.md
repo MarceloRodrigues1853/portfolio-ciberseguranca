@@ -7,7 +7,7 @@ Este projeto apresenta a investigação de um incidente de segurança ocorrido e
 Um cliente relatou falhas no acesso ao site da empresa, e foi identificada uma lentidão excessiva e erros de "tempo limite de conexão". A equipe de segurança capturou os pacotes com um sniffer de rede e analisou o tráfego.
 
 ## Modelo de Dados
-[modelo_daos](/projetos/analise-rede/analise-syn-flood/modelo_dados/)
+[modelo_dados](/projetos/analise-rede/analise-syn-flood/modelo_dados/)
 
 ## 🔎 Resultado da Análise
 
