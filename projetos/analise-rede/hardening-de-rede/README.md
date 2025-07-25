@@ -3,7 +3,7 @@
 
 Este projeto faz parte do portfólio de Segurança Cibernética e apresenta uma análise prática sobre **Hardening de Rede** realizada durante o curso de certificação.
 
-- [modelo_daos](/projetos/analise-rede/analise-syn-flood/Relatorio_Incidente_SynFlood.docx)
+- [modelo_dados](/projetos/analise-rede/analise-syn-flood/Relatorio_Incidente_SynFlood.docx)
 
 ## 📌 Cenário
 
