@@ -54,6 +54,8 @@ Este incidente reforça a importância de políticas de segurança fortes, trein
 
 ---
 
+- [Documento Completo](/Analise_Realatorio_Incidente.docx)
+
 ## 🗂️ Estrutura dos Arquivos
 
 📁 relatorio-incidente-nist/
