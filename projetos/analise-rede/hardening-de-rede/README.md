@@ -1,8 +1,9 @@
-# Criar o conteúdo do README.md em português
-readme_content = """\
+
 # Hardening de Rede
 
 Este projeto faz parte do portfólio de Segurança Cibernética e apresenta uma análise prática sobre **Hardening de Rede** realizada durante o curso de certificação.
+
+- [modelo_daos](/projetos/analise-rede/analise-syn-flood/Relatorio_Incidente_SynFlood.docx)
 
 ## 📌 Cenário
 
@@ -30,12 +31,8 @@ Essas práticas ajudam a prevenir ataques de força bruta, engenharia social e i
 
 ## 📁 Arquivos
 
-- `Relatorio_Hardening_de_Rede_PTBR.docx` – Documento completo com análise e recomendações.
-"""
+- [Relatorio Completo](Relatorio_Hardening_de_Rede_PTBR.docx) – Documento completo com análise e recomendações.
 
-# Salvar o README.md
-readme_path = "/mnt/data/README_hardening_de_rede.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
+---
 
-readme_path
+**Este projeto faz parte do meu portfólio de estudos em Segurança Cibernética, baseado no curso de Certificação Profissional do Google.**
