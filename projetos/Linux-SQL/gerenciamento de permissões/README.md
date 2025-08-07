@@ -99,3 +99,5 @@ Este exercício demonstrou a habilidade de:
 **Garantir** que o `acesso` aos `recursos` esteja em **conformidade** com as **regras da organização**
 
 Essas práticas reforçam a **importância do controle de acesso** no contexto da **cibersegurança**.
+
+---
