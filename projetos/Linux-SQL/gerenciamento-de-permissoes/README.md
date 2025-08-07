@@ -30,7 +30,7 @@ ls -la
 ```
 
 📸 Saída do comando:
-![exemplo2](/gerenciamento-de-permissoes/img/exemplo2.PNG)
+![exemplo2](../gerenciamento-de-permissoes/img/exemplo2.PNG)
 
 ### 🔐 Ajuste de Permissões dos Arquivos
 
@@ -47,7 +47,7 @@ chmod g-r project_m.txt
 ```
 
 📸 Resultado após ajustes:
-![exemplo3](/gerenciamento-de-permissoes/img/exemplo3.PNG)
+![exemplo3](../gerenciamento-de-permissoes/img/exemplo3.PNG)
 
 🕵️‍♂️ Ajuste de Permissões em Arquivo Oculto
 O arquivo `.project_x.txt` estava com permissões indevidas. Corrigido com:
@@ -59,7 +59,7 @@ chmod g+r .project_x.txt
 ```
 
 📸 Antes e depois do ajuste:
-![exemplo4](/gerenciamento-de-permissoes/img/exemplo4.PNG)
+![exemplo4](../gerenciamento-de-permissoes/img/exemplo4.PNG)
 
 📁 Ajuste de Permissões em Diretório
 Somente o usuário `researcher2` deve ter acesso ao diretório `drafts`.
@@ -72,7 +72,7 @@ chmod g-x drafts
 ```
 
 📸 Resultado:
-![exemplo5](/gerenciamento-de-permissoes/img/exemplo5.PNG)
+![exemplo5](../gerenciamento-de-permissoes/img/exemplo5.PNG)
 
 ✅ Verificação Final
 Após todos os ajustes, o diretório foi novamente inspecionado:
@@ -82,7 +82,7 @@ ls -la
 ```
 
 📸 Permissões finais aplicadas:
-![exemplo5](/gerenciamento-de-permissoes/img/exemplo5.PNG)
+![exemplo5](../gerenciamento-de-permissoes/img/exemplo5.PNG)
 
 ---
 
