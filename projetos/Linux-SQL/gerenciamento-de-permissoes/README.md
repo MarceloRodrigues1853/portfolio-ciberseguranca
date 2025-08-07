@@ -64,11 +64,9 @@ chmod g+r .project_x.txt
 📁 Ajuste de Permissões em Diretório
 Somente o usuário `researcher2` deve ter acesso ao diretório `drafts`.
 
+Comando utilizado:
 ```bash
 chmod g+x drafts
-Comando utilizado:
-
-chmod g-x drafts
 ```
 
 📸 Resultado:
