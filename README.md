@@ -18,4 +18,4 @@ Veja meu [currículo aqui]([Curriculo/curriculo.pdf](https://www.linkedin.com/in
 
 ---
 
->  Os projetos são fictícios ou feitos em ambientes simulados para fins educacionais.*
+> Os projetos são fictícios ou feitos em ambientes simulados para fins educacionais.*
