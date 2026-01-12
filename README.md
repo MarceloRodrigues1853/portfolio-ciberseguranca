@@ -14,7 +14,7 @@ Este repositório contém projetos, exercícios práticos e documentos desenvolv
 - [x] Análise de Arquivo Texto
 
 ## 📄 Currículo
-Veja meu [currículo aqui]([Curriculo/curriculo.pdf](https://www.linkedin.com/in/marcelo-rodrigues-12724a1b7/)).
+Veja meu [currículo aqui](https://www.linkedin.com/in/marcelo-rodrigues-12724a1b7/).
 
 ---
 
