@@ -14,8 +14,8 @@ Este repositório contém projetos, exercícios práticos e documentos desenvolv
 - [x] Análise de Arquivo Texto
 
 ## 📄 Currículo
-Veja meu [currículo aqui](Curriculo/curriculo.pdf).
+Veja meu [currículo aqui]([Curriculo/curriculo.pdf](https://www.linkedin.com/in/marcelo-rodrigues-12724a1b7/)).
 
 ---
 
-> *Este portfólio é privado por enquanto. Os projetos são fictícios ou feitos em ambientes simulados para fins educacionais.*
+>  Os projetos são fictícios ou feitos em ambientes simulados para fins educacionais.*
